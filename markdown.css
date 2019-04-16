@@ -1,0 +1,32 @@
+body {
+    font-size: 42px;
+    font-family: sans-serif;
+    line-height: 1.25em;
+  }
+
+  h1, h3 {
+    color: gold;
+    font-weight: bold;
+    border: none;
+  }
+
+  h2 {
+    color: cyan;
+    font-weight: bold;
+  }
+
+  ul:hover {
+    background: #383838;
+  }
+
+  li {
+    margin-bottom: .5em;
+  }
+
+  hr {
+    margin: 3em;
+  }
+
+  a {
+    color: cyan;
+  }
