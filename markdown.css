@@ -15,6 +15,10 @@ body {
     font-weight: bold;
   }
 
+  ul {
+    padding: 1em;
+  }
+
   ul:hover {
     background: #383838;
   }
